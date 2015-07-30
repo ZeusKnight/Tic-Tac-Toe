@@ -13,6 +13,9 @@
 		46ECF7891B6878BE00C9DB68 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 46ECF7881B6878BE00C9DB68 /* Images.xcassets */; };
 		46ECF78C1B6878BE00C9DB68 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 46ECF78A1B6878BE00C9DB68 /* LaunchScreen.xib */; };
 		46ECF7981B6878BE00C9DB68 /* Tic_Tac_ToeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46ECF7971B6878BE00C9DB68 /* Tic_Tac_ToeTests.swift */; };
+		46ECF7A41B68793100C9DB68 /* board.png in Resources */ = {isa = PBXBuildFile; fileRef = 46ECF7A11B68793100C9DB68 /* board.png */; };
+		46ECF7A51B68793100C9DB68 /* cross.png in Resources */ = {isa = PBXBuildFile; fileRef = 46ECF7A21B68793100C9DB68 /* cross.png */; };
+		46ECF7A61B68793100C9DB68 /* nought.png in Resources */ = {isa = PBXBuildFile; fileRef = 46ECF7A31B68793100C9DB68 /* nought.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +39,9 @@
 		46ECF7911B6878BE00C9DB68 /* Tic Tac ToeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tic Tac ToeTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		46ECF7961B6878BE00C9DB68 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		46ECF7971B6878BE00C9DB68 /* Tic_Tac_ToeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tic_Tac_ToeTests.swift; sourceTree = "<group>"; };
+		46ECF7A11B68793100C9DB68 /* board.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = board.png; sourceTree = SOURCE_ROOT; };
+		46ECF7A21B68793100C9DB68 /* cross.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cross.png; sourceTree = SOURCE_ROOT; };
+		46ECF7A31B68793100C9DB68 /* nought.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = nought.png; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +88,9 @@
 				46ECF7851B6878BE00C9DB68 /* Main.storyboard */,
 				46ECF7881B6878BE00C9DB68 /* Images.xcassets */,
 				46ECF78A1B6878BE00C9DB68 /* LaunchScreen.xib */,
+				46ECF7A11B68793100C9DB68 /* board.png */,
+				46ECF7A21B68793100C9DB68 /* cross.png */,
+				46ECF7A31B68793100C9DB68 /* nought.png */,
 				46ECF77F1B6878BE00C9DB68 /* Supporting Files */,
 			);
 			path = "Tic Tac Toe";
@@ -192,6 +201,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				46ECF7A51B68793100C9DB68 /* cross.png in Resources */,
+				46ECF7A41B68793100C9DB68 /* board.png in Resources */,
+				46ECF7A61B68793100C9DB68 /* nought.png in Resources */,
 				46ECF7871B6878BE00C9DB68 /* Main.storyboard in Resources */,
 				46ECF78C1B6878BE00C9DB68 /* LaunchScreen.xib in Resources */,
 				46ECF7891B6878BE00C9DB68 /* Images.xcassets in Resources */,
